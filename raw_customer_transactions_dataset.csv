@@ -1,0 +1,501 @@
+customer_id,full_name,age,city,signup_date,product_category,quantity,unit_price,loyalty_points,satisfaction_rating,is_active
+CUST-1000,DIANA MOORE,27.0,,2025-01-31,Clothing,3.0,6.09,1605.0,2.0,
+CUST-1001,  nina johnson  ,46.0,Seattle,11/30/2025,,10.0,318.66,3940.0,,Yes
+CUST-1002,George Davis,145.0,N/A,2025-07-18,Clothing,2.0,276.11,,,0
+CUST-1003,Alice Moore,39.0,Denver,10/16/2024,CLOTHING,8.0,57.63,6662.0,2.0,
+CUST-1004, Moore,23.0,new york,18-Oct-2025,Home & Kitchen,2.0,248.75,2174.0,5.0,Yes
+CUST-1005,Nina Davis,29.0,Dallas,08-Apr-2024,Beauty,13.0,372.54,3916.0,5.0,False
+CUST-1006,Ian Smith,,,2024-03-09,Beauty,5.0,130.87,1486.0,5.0,False
+CUST-1007,Fiona Wilson,46.0,Austin,,Books,14.0,64.77,,1.0,
+CUST-1008,Ethan Miller,57.0,Miami,2024-07-01,electronics,3.0,111.72,2650.0,5.0,False
+CUST-1009,KEVIN BROWN,41.0,San Diego,2024-07-25,Clothing,5.0,99.34,9345.0,1.0,
+CUST-1010,Diana Lopez,42.0,Seattle,07/15/2024,Sports,12.0,379.79,399.0,4.0,0
+CUST-1011,Tina Rodriguez,39.0,Seattle,08/07/2025,electronics,4.0,,7598.0,3.0,True
+CUST-1012,OSCAR MOORE,21.0,LA,2025-02-01,CLOTHING,6.0,337.71,6641.0,,0
+CUST-1013,Michael Williams,59.0,San Antonio,2025-06-22,Beauty,12.0,446.42,6068.0,1.0,1
+CUST-1014, Lopez,39.0,Austin,2025-08-27,,6.0,296.71,22.0,5.0,1
+CUST-1015,Sam Miller,-5.0,Chicago,10-Jan-2025,Toys,1.0,482.11,1158.0,1.0,yes
+CUST-1016,Bob Davis,36.0,N/A,03/13/2024,,5.0,,5454.0,2.0,Yes
+CUST-1017,Charlie Davis,72.0,Denver,,Toys,3.0,278.85,4859.0,,
+CUST-1018,Michael Rodriguez,56.0,Phoenix,2025-11-02,,,294.63,4420.0,4.0,1
+CUST-1019,Laura Garcia,39.0,Phoenix,2024-03-22,Clothing,8.0,391.64,8887.0,3.0,
+CUST-1020,George Rodriguez,-5.0,San Antonio,2025-10-16,Beauty,9.0,347.45,3393.0,1.0,1
+CUST-1021, Williams,40.0,LA,,Beauty,8.0,408.55,1326.0,1.0,Yes
+CUST-1017,Tina Garcia,59.0,Boston,2025-03-01,electronics,13.0,$330.47,5500.0,4.0,False
+CUST-1023,Hannah Garcia,43.0,new york,2024-02-29,,1.0,164.31,898.0,5.0,
+CUST-1024,Ian Moore,63.0,N/A,2024-09-29,Home & Kitchen,0.0,212.24,5963.0,,yes
+CUST-1025,Kevin Johnson,37.0,Seattle,2024-03-13,Sports,4.0,347.8,1818.0,3.0,
+CUST-1026,Bob Hernandez,59.0,Seattle,2024-03-20,,14.0,201.95,7624.0,1.0,Yes
+CUST-1027,Charlie Miller,70.0,N/A,2025-06-15,,11.0,150.62,5989.0,5.0,1
+CUST-1028,Sam Hernandez,62.0,Miami,08/24/2024,Clothing,11.0,73.4,9155.0,4.0,
+CUST-1029,Paula Gonzalez,65.0,LA,2024-07-13,Home & Kitchen,10.0,443.79,9187.0,,Yes
+CUST-1030, Anderson,51.0,Austin,11/03/2025,Beauty,14.0,422.32,3354.0,2.0,1
+CUST-1031,ETHAN RODRIGUEZ,-5.0,Phoenix,10/02/2025,Clothing,0.0,160.39,5487.0,4.0,False
+CUST-1032,Rachel Moore,50.0,Philadelphia,2025-07-25,Books,4.0,279.02,1860.0,,No
+CUST-1033,Sam Wilson,41.0,Houston,2025-03-01,Sports,8.0,108.81,9504.0,2.0,yes
+CUST-1034,Michael Lopez,31.0,San Diego,2025-10-15,Clothing,2.0,344.87,3437.0,4.0,
+CUST-1035,Ethan Taylor,67.0,,2025-11-21,Home & Kitchen,14.0,70.67,3693.0,2.0,No
+CUST-1036,Bob Brown,32.0,NEW YORK,2025-11-12,Beauty,2.0,487.71,4380.0,,1
+CUST-1037,Fiona Wilson,27.0,Boston,2024-04-16,Home & Kitchen,,273.53,6929.0,4.0,1
+CUST-1038,Michael Gonzalez,,Dallas,07/03/2024,CLOTHING,3.0,356.62,1038.0,3.0,yes
+CUST-1039,Oscar Taylor,24.0,NEW YORK,2025-05-31,Toys,7.0,283.33,7412.0,5.0,
+CUST-1040,Rachel Smith,52.0,N/A,10-Jun-2024,Toys,7.0,471.62,8629.0,,1
+CUST-1041,Diana Moore,74.0,Houston,2025-09-06,,7.0,338.75,7703.0,3.0,1
+CUST-1042, Hernandez,60.0,new york,2024-12-26,Home & Kitchen,3.0,269.28,8730.0,4.0,1
+CUST-1043,Diana Martinez,67.0,Philadelphia,2025-07-17,,15.0,214.08,7405.0,4.0,Yes
+CUST-1044,Oscar Smith,56.0,Austin,2024-11-28,Toys,5.0,,1075.0,5.0,No
+CUST-1045,Ian Taylor,28.0,,2025-02-26,Toys,3.0,$193.53,7501.0,1.0,
+CUST-1046,Quinn Brown,62.0,,2025-03-16,Home & Kitchen,,,,3.0,yes
+CUST-1047,Julia Taylor,69.0,new york,2024-11-27,electronics,4.0,,2929.0,4.0,
+CUST-1048,Ethan Lopez,64.0,NEW YORK,2025-07-30,CLOTHING,8.0,393.84,1260.0,1.0,yes
+CUST-1049,Rachel Taylor,44.0,Houston,2025-01-19,Home & Kitchen,9.0,343.28,,,False
+CUST-1050,Tina Hernandez,64.0,unknown,2024-09-17,CLOTHING,2.0,35.71,2424.0,4.0,0
+CUST-1051,Diana Lopez,46.0,N/A,2025-04-08,Home & Kitchen,3.0,105.98,3346.0,2.0,yes
+CUST-1052,  julia davis  ,66.0,Houston,2025-02-10,electronics,11.0,182.55,371.0,5.0,1
+CUST-1053,SAM WILLIAMS,46.0,Denver,,Sports,9.0,309.97,8870.0,5.0,no
+CUST-1054,Paula Williams,33.0,Houston,,Home & Kitchen,13.0,283.13,7764.0,,False
+CUST-1055,RACHEL JONES,69.0,San Diego,17-Jan-2024,Home & Kitchen,1.0,325.32,7272.0,1.0,yes
+CUST-1056,Paula Moore,75.0,San Antonio,2024-11-05,Beauty,13.0,257.91,351.0,4.0,
+CUST-1057,Quinn Wilson,41.0,New York,,electronics,8.0,349.58,1031.0,2.0,Yes
+CUST-1058,Rachel Miller,54.0,Houston,2024-08-07,,8.0,28.26,,3.0,0
+CUST-1059,Michael Lopez,47.0,Houston,2024-01-23,Electronics,10.0,211.2,8513.0,5.0,No
+CUST-1060,QUINN ANDERSON,67.0,Los Angeles,2024-10-09,Beauty,7.0,344.15,6745.0,5.0,yes
+CUST-1061,Hannah Williams,51.0,Denver,2025-06-07,Electronics,1.0,31.63,5346.0,,
+CUST-1062,Sam Moore,28.0,Phoenix,2025-08-08,electronics,4.0,105.53,8686.0,,yes
+CUST-1063,  hannah smith  ,69.0,,02/08/2024,Home & Kitchen,,430.92,7295.0,,False
+CUST-1064, Johnson,73.0,Houston,2024-06-08,Books,5.0,116.65,9293.0,,True
+CUST-1065,Hannah Williams,59.0,Austin,01/10/2025,Toys,,356.22,5021.0,1.0,True
+CUST-1066,Kevin Williams,41.0,Phoenix,2024-09-12,CLOTHING,9.0,296.25,4259.0,5.0,no
+CUST-1062,Ian Thomas,24.0,N/A,11/03/2024,CLOTHING,10.0,102.25,6093.0,3.0,False
+CUST-1068,Ethan ,51.0,San Diego,02/13/2025,electronics,3.0,100.78,775.0,1.0,yes
+CUST-1069,Sam Thomas,36.0,San Antonio,2024-08-10,Toys,11.0,491.81,4659.0,1.0,no
+CUST-1070,Paula Wilson,-5.0,Austin,2024-11-28,electronics,9.0,$481.43,2725.0,,
+CUST-1071,Diana Wilson,46.0,Boston,2024-06-26,Toys,15.0,64.08,2634.0,2.0,0
+CUST-1072,Nina Anderson,27.0,N/A,2025-08-13,electronics,13.0,,4673.0,4.0,Yes
+CUST-1073,  bob brown  ,23.0,,2024-04-07,electronics,4.0,135.8,2873.0,,1
+CUST-1074,Kevin Brown,32.0,Dallas,2024-11-03,Home & Kitchen,13.0,423.78,2514.0,3.0,No
+CUST-1075,George Moore,74.0,San Antonio,,Clothing,15.0,,1915.0,4.0,Yes
+CUST-1076,Nina Garcia,19.0,Philadelphia,2025-01-25,,14.0,469.06,,4.0,yes
+CUST-1077,Hannah Williams,43.0,Dallas,02/27/2024,Electronics,4.0,,2072.0,3.0,False
+CUST-1078,  rachel brown  ,33.0,Miami,2024-12-08,Books,13.0,300.46,6056.0,2.0,True
+CUST-1079,Rachel Smith,23.0,Denver,20-Mar-2025,Sports,6.0,314.56,9215.0,1.0,False
+CUST-1080,Hannah Garcia,19.0,Boston,2024-05-03,Electronics,1.0,154.07,5192.0,5.0,1
+CUST-1076,Paula Miller,24.0,Los Angeles,2024-08-20,Sports,6.0,277.33,2423.0,1.0,False
+CUST-1082,Bob Garcia,59.0,Denver,2025-09-08,Books,10.0,$355.3,8845.0,1.0,
+CUST-1083,Michael Rodriguez,27.0,San Diego,2025-10-11,CLOTHING,4.0,478.71,8743.0,,no
+CUST-1084,Oscar Martinez,36.0,Houston,2025-01-26,Sports,13.0,394.2,408.0,,True
+CUST-1085,Rachel Thomas,48.0,Dallas,,Home & Kitchen,8.0,273.82,8182.0,4.0,True
+CUST-1086,Julia Miller,26.0,San Diego,2024-11-22,electronics,3.0,177.95,7504.0,4.0,False
+CUST-1087,  sam moore  ,48.0,Seattle,2024-06-02,,2.0,333.35,2556.0,5.0,1
+CUST-1088,  kevin johnson  ,18.0,new york,14-Aug-2024,electronics,,150.32,,3.0,yes
+CUST-1089,Paula Taylor,19.0,unknown,11/20/2025,CLOTHING,1.0,311.05,8313.0,5.0,
+CUST-1090,  quinn garcia  ,71.0,Phoenix,2025-02-06,CLOTHING,1.0,282.86,4842.0,4.0,True
+CUST-1091,Quinn Williams,64.0,LA,2025-09-01,Clothing,10.0,326.4,4748.0,1.0,Yes
+CUST-1092,Charlie Williams,45.0,New York,2024-04-02,,3.0,$176.27,9399.0,,1
+CUST-1093,HANNAH GONZALEZ,145.0,Philadelphia,10/23/2024,Clothing,3.0,322.92,9260.0,,False
+CUST-1094,Sam Davis,37.0,N/A,2024-05-31,Sports,14.0,125.69,7243.0,,True
+CUST-1095,Bob Williams,33.0,unknown,03/25/2024,CLOTHING,1.0,,1840.0,,0
+CUST-1096,Sam ,68.0,unknown,2024-02-20,Beauty,,193.78,656.0,1.0,
+CUST-1097,Quinn Hernandez,22.0,Seattle,2024-09-25,CLOTHING,15.0,61.12,9026.0,2.0,Yes
+CUST-1098,George Hernandez,145.0,San Antonio,05/28/2025,Electronics,2.0,363.37,,4.0,No
+CUST-1099,Michael Jones,56.0,LA,2024-05-13,electronics,14.0,,,5.0,
+CUST-1100,Julia Anderson,58.0,Houston,2025-05-07,CLOTHING,2.0,386.39,3610.0,3.0,0
+CUST-1101,Charlie Smith,33.0,San Diego,2025-05-14,Books,11.0,256.82,1515.0,2.0,True
+CUST-1102,  sam brown  ,36.0,Phoenix,2025-08-08,Toys,2.0,151.73,9963.0,1.0,
+CUST-1103,George Taylor,57.0,Austin,09/22/2025,Clothing,6.0,163.55,9558.0,,1
+CUST-1104,Laura Williams,54.0,unknown,2025-06-20,Books,3.0,$52.5,4553.0,4.0,0
+CUST-1105,Laura Martinez,60.0,Phoenix,03/14/2024,Sports,7.0,387.79,1369.0,4.0,1
+CUST-1106,Rachel Martinez,51.0,Denver,16-Mar-2025,Electronics,8.0,315.33,7298.0,,1
+CUST-1107, Taylor,22.0,N/A,12-Aug-2025,electronics,3.0,316.61,1431.0,2.0,No
+CUST-1108,Alice Moore,52.0,,11/18/2025,Sports,9.0,344.28,6462.0,5.0,1
+CUST-1109,Diana Jones,50.0,San Diego,2025-01-09,Beauty,15.0,106.76,5206.0,4.0,
+CUST-1110,Diana Moore,42.0,Philadelphia,24-Nov-2024,Clothing,6.0,439.93,8381.0,,True
+CUST-1111,Julia Miller,20.0,Denver,02-Nov-2025,electronics,10.0,220.44,5915.0,,False
+CUST-1112,George Rodriguez,41.0,,,Clothing,7.0,40.7,7006.0,4.0,no
+CUST-1113,IAN JOHNSON,19.0,Denver,24-Dec-2024,Books,12.0,16.76,6108.0,4.0,
+CUST-1114,  nina rodriguez  ,22.0,Boston,2025-03-28,Books,3.0,23.75,,5.0,no
+CUST-1115,Kevin Jones,64.0,Chicago,2025-03-27,,12.0,$93.11,5047.0,3.0,
+CUST-1116,Ian Garcia,24.0,Dallas,,Beauty,7.0,39.87,9191.0,,0
+CUST-1117,Rachel Wilson,65.0,Chicago,2024-07-23,,13.0,455.94,,5.0,yes
+CUST-1118,Diana Williams,26.0,LA,2024-06-08,Toys,1.0,228.31,7278.0,5.0,0
+CUST-1119,  ethan moore  ,,N/A,2024-03-28,Home & Kitchen,6.0,161.62,6809.0,4.0,
+CUST-1120,Laura ,70.0,Denver,02/25/2024,,10.0,63.56,4728.0,1.0,Yes
+CUST-1121,Rachel Jones,71.0,Chicago,09/27/2025,Home & Kitchen,10.0,,6944.0,4.0,Yes
+CUST-1122,Bob Martinez,47.0,N/A,2024-10-21,Books,8.0,36.3,6786.0,5.0,No
+CUST-1123,Bob Lopez,48.0,,,Books,12.0,27.53,9620.0,,Yes
+CUST-1119,Hannah Brown,69.0,new york,2024-04-23,Electronics,0.0,182.06,2353.0,4.0,True
+CUST-1125,Rachel Wilson,63.0,Miami,27-Apr-2025,,6.0,148.47,7776.0,1.0,No
+CUST-1126,Ethan Davis,47.0,new york,,Beauty,15.0,305.25,8606.0,3.0,
+CUST-1127,  fiona wilson  ,,NEW YORK,07/04/2025,CLOTHING,14.0,463.71,1083.0,4.0,No
+CUST-1128,Kevin Wilson,68.0,new york,07/13/2025,Sports,11.0,411.95,9677.0,,False
+CUST-1129,Hannah Rodriguez,20.0,New York,2024-09-21,,6.0,,1449.0,2.0,0
+CUST-1130,Diana Gonzalez,37.0,Seattle,2025-09-29,CLOTHING,5.0,113.83,,4.0,no
+CUST-1131,Paula Davis,70.0,LA,2024-05-24,Home & Kitchen,12.0,399.4,4478.0,2.0,1
+CUST-1132,Oscar Lopez,34.0,,2025-11-15,Beauty,0.0,151.01,9106.0,3.0,1
+CUST-1133,  hannah davis  ,,Phoenix,,Sports,2.0,152.54,9304.0,4.0,no
+CUST-1134,George Gonzalez,36.0,NEW YORK,2025-11-10,Sports,1.0,482.86,2243.0,,Yes
+CUST-1130,Charlie Rodriguez,67.0,LA,2024-09-18,,12.0,325.73,6254.0,4.0,Yes
+CUST-1136,Quinn Gonzalez,,New York,10/17/2024,Sports,3.0,10.52,8037.0,3.0,
+CUST-1137,Rachel Hernandez,35.0,Houston,09/24/2025,CLOTHING,8.0,74.98,,2.0,No
+CUST-1138,Diana Rodriguez,41.0,Miami,21-Apr-2025,Clothing,6.0,,9588.0,3.0,Yes
+CUST-1139,IAN JOHNSON,43.0,Boston,2024-01-09,Home & Kitchen,2.0,200.07,9163.0,1.0,
+CUST-1140,Nina Lopez,75.0,Dallas,,Toys,13.0,47.14,3678.0,2.0,no
+CUST-1141,Kevin Wilson,39.0,new york,2025-11-09,Electronics,11.0,372.01,,2.0,
+CUST-1142,Quinn Brown,49.0,,2025-11-06,Sports,4.0,109.81,,1.0,No
+CUST-1143,Sam Miller,41.0,,2024-04-20,Home & Kitchen,2.0,426.47,7742.0,4.0,No
+CUST-1144,Nina Smith,51.0,,,Home & Kitchen,1.0,96.08,4713.0,2.0,No
+CUST-1145,Rachel Miller,23.0,Denver,2025-10-26,Books,6.0,130.11,8059.0,1.0,
+CUST-1146,Charlie Hernandez,23.0,Denver,2025-01-24,Home & Kitchen,2.0,$337.13,4009.0,3.0,yes
+CUST-1147,Diana Martinez,70.0,New York,2024-04-11,Beauty,0.0,31.92,,2.0,True
+CUST-1148,Nina Hernandez,36.0,New York,2025-05-11,Books,7.0,495.09,8078.0,5.0,
+CUST-1149,JULIA MOORE,23.0,N/A,2025-06-28,Toys,2.0,324.11,1093.0,,yes
+CUST-1145,Nina Gonzalez,36.0,N/A,07/22/2024,electronics,15.0,$337.48,5927.0,,No
+CUST-1151,Fiona ,56.0,Seattle,2025-04-13,Home & Kitchen,6.0,102.72,9266.0,5.0,yes
+CUST-1152,Julia Gonzalez,28.0,New York,2024-01-23,,10.0,476.01,4225.0,5.0,1
+CUST-1153,Alice Martinez,40.0,New York,,Sports,12.0,337.29,7799.0,3.0,1
+CUST-1154,Nina ,64.0,Miami,2024-11-08,Toys,,146.14,1959.0,3.0,False
+CUST-1155,Tina Hernandez,40.0,Philadelphia,06-Feb-2025,Toys,3.0,,9425.0,5.0,No
+CUST-1156,Oscar Miller,45.0,N/A,2024-01-19,electronics,7.0,245.5,,2.0,False
+CUST-1157,Fiona Williams,68.0,San Antonio,26-Dec-2024,Clothing,2.0,331.41,9529.0,5.0,1
+CUST-1158, Hernandez,22.0,New York,2024-11-05,Clothing,4.0,80.44,,1.0,True
+CUST-1159,Charlie Davis,43.0,Miami,05/28/2025,Toys,9.0,404.81,2219.0,4.0,0
+CUST-1160,Hannah Miller,69.0,Seattle,04-Mar-2024,CLOTHING,12.0,88.48,866.0,1.0,1
+CUST-1161,Bob Davis,28.0,Chicago,2025-01-31,Sports,11.0,393.9,6873.0,5.0,yes
+CUST-1162,Tina Williams,27.0,Los Angeles,2024-01-31,Beauty,4.0,322.22,5832.0,1.0,No
+CUST-1163,,61.0,Los Angeles,2024-10-13,electronics,7.0,182.95,,1.0,1
+CUST-1164,George Gonzalez,20.0,Miami,12/15/2024,electronics,14.0,169.12,1258.0,2.0,Yes
+CUST-1165,Hannah Jones,33.0,LA,2025-11-03,Beauty,1.0,225.45,3002.0,2.0,True
+CUST-1166,Alice Brown,41.0,Phoenix,01/26/2025,,7.0,246.05,9810.0,2.0,True
+CUST-1167,Hannah Garcia,54.0,Houston,2025-11-25,Electronics,14.0,$324.55,8908.0,4.0,0
+CUST-1168,  quinn anderson  ,,,2025-10-02,Clothing,10.0,$143.9,5180.0,4.0,Yes
+CUST-1169,Hannah Brown,46.0,Miami,2025-03-03,electronics,2.0,446.19,4932.0,1.0,1
+CUST-1170,Oscar Taylor,41.0,Philadelphia,06/05/2024,Beauty,,368.1,5939.0,99.0,1
+CUST-1171,Tina Hernandez,22.0,Dallas,2024-11-15,Clothing,5.0,365.08,,2.0,yes
+CUST-1172,Oscar Taylor,51.0,Philadelphia,2024-12-03,CLOTHING,8.0,425.55,2354.0,,False
+CUST-1173,Rachel Anderson,38.0,Austin,2024-05-14,Toys,5.0,407.26,,4.0,No
+CUST-1174,Paula Anderson,33.0,NEW YORK,05/21/2024,Books,8.0,385.75,6111.0,1.0,False
+CUST-1175,Hannah Rodriguez,19.0,Dallas,2025-12-01,Toys,11.0,23.14,6750.0,4.0,no
+CUST-1176,Quinn Thomas,49.0,Austin,2024-05-21,Books,11.0,447.52,2671.0,5.0,
+CUST-1177,  ian anderson  ,53.0,Boston,20-Jun-2025,electronics,3.0,328.68,,3.0,True
+CUST-1178,Julia Davis,145.0,unknown,2025-03-16,Sports,7.0,199.29,3622.0,4.0,yes
+CUST-1179,KEVIN MOORE,63.0,Phoenix,2024-05-28,Beauty,8.0,296.85,9153.0,2.0,False
+CUST-1180,Ethan Davis,57.0,Phoenix,2025-08-01,Sports,,71.27,8612.0,99.0,No
+CUST-1181,  ethan miller  ,49.0,San Antonio,2024-11-21,Beauty,5.0,49.82,9029.0,4.0,yes
+CUST-1182,Nina Hernandez,26.0,NEW YORK,,CLOTHING,5.0,10.24,1867.0,2.0,
+CUST-1183,Nina Johnson,46.0,,2024-05-01,,3.0,482.18,1251.0,4.0,True
+CUST-1184,Nina Gonzalez,63.0,,05/29/2024,Home & Kitchen,11.0,343.66,,4.0,no
+CUST-1185,Sam Smith,23.0,new york,2024-11-22,,11.0,74.48,284.0,5.0,
+CUST-1186,Sam Gonzalez,72.0,NEW YORK,2025-02-27,electronics,9.0,285.35,5104.0,3.0,No
+CUST-1187,Laura Martinez,60.0,Austin,2024-11-06,Beauty,13.0,436.74,2277.0,4.0,False
+CUST-1188,Nina Moore,22.0,Austin,2025-10-14,Electronics,9.0,367.34,9791.0,,1
+CUST-1189,Rachel Davis,36.0,Austin,2024-10-07,Electronics,0.0,25.01,5604.0,,No
+CUST-1190,Ian Wilson,72.0,N/A,07/11/2024,Clothing,9.0,119.72,4991.0,1.0,Yes
+CUST-1191,Michael Hernandez,63.0,Denver,07/08/2024,electronics,9.0,120.84,,,No
+CUST-1192,Michael Garcia,58.0,new york,,Electronics,15.0,261.35,3643.0,2.0,No
+CUST-1193,  ethan moore  ,41.0,,2025-09-23,Clothing,15.0,197.11,2332.0,4.0,
+CUST-1194,Michael ,25.0,New York,03-Aug-2025,Home & Kitchen,5.0,441.37,5036.0,2.0,1
+CUST-1195,SAM SMITH,68.0,Chicago,2025-09-02,electronics,0.0,,2133.0,1.0,False
+CUST-1196,Nina Jones,68.0,NEW YORK,01/27/2024,electronics,12.0,56.1,6960.0,5.0,Yes
+CUST-1197,Fiona Johnson,41.0,Denver,2025-05-03,Electronics,,318.62,1830.0,4.0,False
+CUST-1198,Kevin Miller,41.0,Seattle,09/11/2025,Toys,9.0,372.25,,5.0,yes
+CUST-1199,Kevin Gonzalez,53.0,,2025-10-27,Books,11.0,287.23,7065.0,3.0,Yes
+CUST-1200,Nina Rodriguez,74.0,San Diego,2025-01-31,Home & Kitchen,3.0,192.37,,1.0,Yes
+CUST-1201,Paula Smith,-5.0,unknown,2024-05-20,Sports,13.0,449.62,,5.0,True
+CUST-1202,Bob Lopez,63.0,Los Angeles,08/19/2024,Home & Kitchen,3.0,$129.54,8412.0,2.0,1
+CUST-1203,Charlie Johnson,51.0,Miami,,Sports,13.0,115.34,7685.0,4.0,yes
+CUST-1204,Hannah Miller,44.0,new york,2024-01-16,Clothing,1.0,409.53,,5.0,0
+CUST-1205,Tina Jones,22.0,Phoenix,2025-02-26,Beauty,11.0,397.37,1085.0,5.0,True
+CUST-1206,Paula Brown,38.0,Houston,11/18/2025,Sports,14.0,8.27,168.0,3.0,
+CUST-1207,George Anderson,46.0,unknown,2024-07-28,Clothing,14.0,222.75,2028.0,4.0,Yes
+CUST-1208,Laura Garcia,51.0,Denver,,Beauty,6.0,259.7,3365.0,3.0,
+CUST-1209,Diana Garcia,74.0,Philadelphia,2025-03-25,Home & Kitchen,15.0,79.37,3277.0,,False
+CUST-1210,Diana ,53.0,new york,2025-05-16,Electronics,2.0,303.0,5759.0,4.0,False
+CUST-1211,Alice Martinez,29.0,NEW YORK,2025-04-13,Toys,7.0,332.25,,2.0,True
+CUST-1212,Michael Gonzalez,26.0,Philadelphia,2025-03-13,Sports,14.0,168.46,4544.0,5.0,True
+CUST-1213,George Williams,73.0,N/A,2024-02-12,Books,8.0,$339.24,5698.0,1.0,No
+CUST-1214, Davis,,unknown,2025-01-24,Toys,1.0,297.44,8202.0,3.0,
+CUST-1215,Diana Martinez,27.0,new york,2025-02-07,Clothing,10.0,208.4,3962.0,2.0,no
+CUST-1216,Tina Brown,28.0,Chicago,2025-08-08,Clothing,13.0,68.3,1119.0,,Yes
+CUST-1217,Sam Johnson,63.0,San Diego,2025-06-21,Electronics,7.0,71.69,,5.0,True
+CUST-1218,  nina lopez  ,51.0,New York,2024-02-09,Books,10.0,445.94,229.0,2.0,False
+CUST-1219, Hernandez,72.0,Houston,2025-04-07,electronics,13.0,87.34,3138.0,3.0,No
+CUST-1220,Alice Wilson,,unknown,2024-02-13,Clothing,2.0,260.74,2814.0,5.0,
+CUST-1221,Diana Wilson,53.0,LA,2024-09-08,Home & Kitchen,10.0,484.78,8800.0,,
+CUST-1222, Anderson,58.0,Austin,2025-02-09,,13.0,439.86,,,0
+CUST-1223,Ethan Wilson,52.0,NEW YORK,2024-02-10,Books,9.0,411.55,3506.0,5.0,0
+CUST-1224,Quinn Rodriguez,-5.0,San Antonio,2025-06-12,CLOTHING,15.0,112.21,7777.0,1.0,1
+CUST-1225,Rachel Thomas,55.0,Chicago,2024-02-20,electronics,7.0,238.35,9656.0,1.0,True
+CUST-1226,Sam Rodriguez,27.0,unknown,03/26/2025,Electronics,10.0,113.59,1758.0,5.0,Yes
+CUST-1227,Hannah Williams,57.0,Phoenix,2024-11-07,Electronics,1.0,75.64,5813.0,4.0,No
+CUST-1228,Oscar Davis,56.0,unknown,2024-10-19,Beauty,7.0,384.91,6948.0,2.0,0
+CUST-1229,Sam Gonzalez,54.0,Austin,2025-03-08,Clothing,10.0,257.85,3728.0,5.0,
+CUST-1230,Paula Hernandez,,N/A,25-Feb-2024,Toys,7.0,344.37,5149.0,5.0,0
+CUST-1231,George Lopez,23.0,San Diego,2024-05-25,Home & Kitchen,,300.28,1807.0,2.0,No
+CUST-1232,Kevin Rodriguez,,Austin,2025-10-23,electronics,6.0,,8123.0,3.0,False
+CUST-1233,  ian moore  ,54.0,LA,2025-05-27,Clothing,1.0,70.45,4723.0,5.0,1
+CUST-1234,George Williams,31.0,NEW YORK,08/22/2025,Books,15.0,,665.0,4.0,no
+CUST-1235,Nina Thomas,44.0,Miami,2025-07-13,Toys,6.0,455.12,,2.0,yes
+CUST-1236,Hannah Thomas,19.0,Dallas,02/27/2025,Clothing,,414.12,6304.0,,
+CUST-1237,Paula Anderson,58.0,new york,26-Jan-2024,Clothing,5.0,92.82,9836.0,2.0,Yes
+CUST-1238,Charlie Martinez,59.0,Los Angeles,08/27/2025,Clothing,14.0,301.91,7273.0,3.0,True
+CUST-1239,Hannah Martinez,48.0,Seattle,2024-07-25,Beauty,12.0,268.06,6672.0,2.0,no
+CUST-1240,Laura Thomas,69.0,Phoenix,2024-04-02,Beauty,14.0,51.13,7011.0,4.0,1
+CUST-1241,Laura Wilson,37.0,NEW YORK,26-Oct-2025,Sports,5.0,451.48,1140.0,,True
+CUST-1242,Rachel Hernandez,62.0,San Diego,2024-06-16,Home & Kitchen,8.0,5.59,7793.0,,No
+CUST-1243,Oscar Rodriguez,,,2024-05-06,Toys,6.0,340.89,6020.0,4.0,0
+CUST-1244,Hannah Brown,48.0,,04/05/2025,Home & Kitchen,7.0,213.24,8055.0,1.0,False
+CUST-1245,Kevin Brown,39.0,,2024-03-28,Home & Kitchen,2.0,350.33,6494.0,5.0,No
+CUST-1246,Fiona Miller,38.0,Austin,2025-01-28,Clothing,4.0,469.52,1392.0,5.0,False
+CUST-1247,Paula Rodriguez,38.0,San Diego,2025-06-07,CLOTHING,7.0,385.49,,4.0,no
+CUST-1248,Quinn Martinez,73.0,New York,2024-06-12,,13.0,403.29,9675.0,5.0,yes
+CUST-1249,George Martinez,43.0,,2025-01-24,Electronics,6.0,419.41,2764.0,4.0,Yes
+CUST-1250,  fiona martinez  ,41.0,Philadelphia,,,9.0,215.62,,4.0,no
+CUST-1251,Rachel Jones,24.0,Boston,12/09/2024,Home & Kitchen,2.0,384.1,5548.0,4.0,Yes
+CUST-1252,Bob Moore,47.0,Denver,2025-11-06,electronics,9.0,46.49,6623.0,2.0,
+CUST-1253,ETHAN THOMAS,46.0,Phoenix,2024-06-15,Beauty,13.0,274.15,6958.0,4.0,no
+CUST-1254,Alice ,24.0,Dallas,2024-07-02,Books,15.0,7.71,4563.0,2.0,False
+CUST-1255,Julia Thomas,,N/A,2024-02-22,Home & Kitchen,3.0,8.52,9534.0,5.0,True
+CUST-1256,Kevin Garcia,73.0,Austin,2024-11-12,Toys,14.0,262.28,6557.0,1.0,No
+CUST-1257,IAN THOMAS,33.0,Seattle,2025-04-01,,1.0,106.68,9882.0,4.0,
+CUST-1258,Charlie Gonzalez,75.0,Chicago,04-Jul-2024,electronics,8.0,207.38,7938.0,2.0,1
+CUST-1259,Sam Johnson,38.0,unknown,05/14/2024,Books,,$215.91,2414.0,3.0,False
+CUST-1260,SAM MARTINEZ,64.0,Austin,2024-01-04,Clothing,4.0,134.34,1770.0,1.0,
+CUST-1261,Hannah Brown,66.0,NEW YORK,2024-09-16,Clothing,14.0,284.51,8017.0,4.0,False
+CUST-1262,Nina Davis,50.0,,,Home & Kitchen,7.0,495.94,2205.0,,Yes
+CUST-1263,Michael Anderson,74.0,San Antonio,2025-05-25,Clothing,2.0,105.83,,3.0,Yes
+CUST-1264,Julia ,19.0,Phoenix,2024-01-06,,4.0,280.99,1117.0,,0
+CUST-1265,Nina Martinez,-5.0,NEW YORK,2025-05-20,Toys,10.0,281.75,438.0,99.0,Yes
+CUST-1266,Bob Brown,47.0,NEW YORK,08/25/2025,Beauty,14.0,494.31,6269.0,3.0,0
+CUST-1267,George Miller,31.0,Philadelphia,2025-04-09,Toys,9.0,388.23,5356.0,4.0,Yes
+CUST-1268,Charlie Garcia,21.0,LA,2024-03-22,Beauty,3.0,73.34,1578.0,,True
+CUST-1269,Rachel Williams,,Austin,2024-01-07,Home & Kitchen,5.0,63.95,8518.0,,No
+CUST-1270,Nina Anderson,74.0,,07/14/2025,Books,12.0,392.64,7635.0,4.0,no
+CUST-1271,  paula martinez  ,61.0,LA,05-Oct-2025,Sports,1.0,54.64,8157.0,,
+CUST-1272,Julia Martinez,52.0,Austin,2024-07-31,Clothing,3.0,394.11,4287.0,3.0,False
+CUST-1273,Oscar Williams,,San Diego,,Books,13.0,308.94,8856.0,4.0,
+CUST-1274,Ian ,145.0,Dallas,10/30/2025,CLOTHING,14.0,30.77,517.0,,yes
+CUST-1275,GEORGE WILSON,34.0,Los Angeles,28-May-2024,,4.0,319.76,1951.0,1.0,
+CUST-1276,Hannah Jones,66.0,NEW YORK,2025-11-14,,5.0,412.51,5153.0,4.0,no
+CUST-1277,  ethan williams  ,20.0,New York,2025-09-09,,9.0,302.12,7250.0,3.0,No
+CUST-1278,Julia ,54.0,San Antonio,30-Mar-2024,Sports,,$135.23,538.0,3.0,Yes
+CUST-1279,JULIA ANDERSON,41.0,Boston,,Electronics,13.0,306.47,4965.0,4.0,yes
+CUST-1280,Julia Gonzalez,22.0,Dallas,2024-07-01,Sports,8.0,465.69,2689.0,5.0,False
+CUST-1281,Quinn Moore,46.0,Philadelphia,10/18/2024,Books,11.0,329.81,2203.0,,Yes
+CUST-1282,Charlie Johnson,35.0,Los Angeles,2025-09-01,CLOTHING,13.0,481.95,6374.0,,False
+CUST-1283,  kevin rodriguez  ,57.0,LA,2025-07-29,,,,1792.0,4.0,
+CUST-1284,Hannah ,25.0,NEW YORK,04/11/2025,CLOTHING,13.0,91.76,8037.0,2.0,Yes
+CUST-1285,Sam Smith,24.0,Chicago,2025-01-03,Books,12.0,10.3,8837.0,3.0,no
+CUST-1286,Ian ,68.0,Seattle,2024-04-05,Toys,11.0,465.73,7797.0,,yes
+CUST-1287,Bob Garcia,53.0,Boston,2024-11-26,Sports,15.0,101.4,2560.0,5.0,Yes
+CUST-1288, Anderson,66.0,N/A,2025-01-23,Electronics,6.0,257.72,6412.0,2.0,yes
+CUST-1289,Ian Garcia,56.0,N/A,2025-03-13,Books,4.0,309.52,9683.0,3.0,Yes
+CUST-1290,Nina Thomas,50.0,Miami,2024-03-07,electronics,11.0,183.07,5779.0,4.0,1
+CUST-1291,Paula Lopez,,Seattle,17-May-2024,Toys,10.0,487.94,4660.0,1.0,No
+CUST-1292,Kevin Brown,,Los Angeles,10/08/2024,Clothing,2.0,$141.59,461.0,1.0,False
+CUST-1293,Kevin Wilson,69.0,New York,27-Feb-2025,Books,,336.48,2100.0,3.0,
+CUST-1294,Julia Gonzalez,47.0,NEW YORK,2024-08-02,electronics,14.0,104.15,5715.0,1.0,yes
+CUST-1295,Rachel Johnson,75.0,Dallas,2024-04-21,,9.0,,9567.0,1.0,
+CUST-1296,Kevin Rodriguez,38.0,N/A,2025-10-06,Clothing,10.0,459.99,,5.0,No
+CUST-1297,Michael Taylor,38.0,NEW YORK,2024-03-30,CLOTHING,11.0,364.44,5591.0,1.0,No
+CUST-1298,Alice Moore,57.0,,2025-09-11,Electronics,2.0,293.55,7014.0,5.0,No
+CUST-1299,Bob Miller,37.0,,2024-10-21,Beauty,5.0,408.68,5855.0,4.0,False
+CUST-1300,Tina Thomas,50.0,San Diego,2024-11-20,Beauty,14.0,481.71,924.0,1.0,
+CUST-1301,Bob Miller,52.0,Austin,11-Aug-2025,Home & Kitchen,11.0,204.96,4056.0,,
+CUST-1302,Ethan Martinez,54.0,New York,2024-12-28,Toys,15.0,,5113.0,2.0,no
+CUST-1303,  paula brown  ,70.0,San Antonio,2025-09-21,,4.0,255.59,1073.0,3.0,No
+CUST-1304, Davis,,Seattle,2025-06-16,Toys,13.0,254.07,1875.0,2.0,no
+CUST-1305,Fiona Martinez,25.0,Austin,2025-05-24,Beauty,1.0,62.92,322.0,5.0,True
+CUST-1306,RACHEL WILSON,55.0,NEW YORK,2024-07-03,CLOTHING,13.0,132.56,612.0,5.0,0
+CUST-1307,Diana Anderson,75.0,N/A,2024-08-26,Home & Kitchen,7.0,397.73,6921.0,4.0,True
+CUST-1308, Jones,62.0,Phoenix,2024-07-17,electronics,11.0,224.17,6900.0,4.0,0
+CUST-1309,Paula Martinez,56.0,unknown,,Clothing,1.0,244.4,7695.0,1.0,No
+CUST-1310,Ian Wilson,59.0,Miami,,Electronics,5.0,173.13,5185.0,2.0,
+CUST-1311,Paula Davis,67.0,Chicago,2024-04-30,,7.0,342.39,6394.0,5.0,
+CUST-1312,Ethan Gonzalez,32.0,Austin,2024-07-31,Clothing,12.0,431.7,1601.0,3.0,yes
+CUST-1313,Tina Taylor,55.0,Chicago,2025-02-28,Electronics,,132.62,1639.0,,0
+CUST-1314,Ethan Williams,51.0,LA,2024-12-07,Sports,10.0,395.38,3373.0,5.0,no
+CUST-1315,Nina Hernandez,57.0,Philadelphia,14-Oct-2025,Books,6.0,352.08,8237.0,99.0,Yes
+CUST-1316,Quinn Rodriguez,42.0,San Antonio,10/17/2025,Electronics,4.0,209.15,5563.0,,
+CUST-1317,Julia Martinez,61.0,Philadelphia,10/15/2024,Electronics,11.0,270.15,4907.0,1.0,yes
+CUST-1318,Sam Thomas,54.0,Denver,10-Mar-2024,Toys,15.0,135.36,7143.0,99.0,0
+CUST-1319,Oscar Moore,25.0,LA,02-Jun-2025,CLOTHING,6.0,202.47,1234.0,2.0,No
+CUST-1320,Kevin Moore,46.0,NEW YORK,2024-01-07,Sports,14.0,174.29,8779.0,,No
+CUST-1321,Michael Anderson,27.0,Chicago,12/07/2024,CLOTHING,11.0,93.35,4344.0,2.0,1
+CUST-1322,George Davis,31.0,Seattle,05-Aug-2025,Toys,3.0,113.19,,,yes
+CUST-1323,  hannah wilson  ,67.0,Philadelphia,2024-01-30,Toys,8.0,95.48,6586.0,,True
+CUST-1324,Paula Gonzalez,48.0,Seattle,2024-07-17,Toys,5.0,465.48,1506.0,3.0,yes
+CUST-1325, Jones,65.0,San Antonio,12-Dec-2024,Clothing,9.0,369.87,9473.0,,0
+CUST-1326,PAULA JOHNSON,63.0,Denver,2025-05-05,CLOTHING,3.0,124.82,,3.0,
+CUST-1327,Sam Hernandez,31.0,NEW YORK,2024-02-06,CLOTHING,15.0,118.46,1102.0,1.0,yes
+CUST-1328,Oscar Brown,60.0,Dallas,2025-05-08,,2.0,418.99,8700.0,,False
+CUST-1329,Oscar Smith,42.0,Philadelphia,04/16/2025,Home & Kitchen,4.0,390.57,3436.0,5.0,no
+CUST-1330,  nina jones  ,29.0,Phoenix,2025-07-03,Sports,5.0,$43.85,1256.0,4.0,
+CUST-1331,Ian Hernandez,52.0,,2025-04-18,Clothing,15.0,248.87,4945.0,5.0,Yes
+CUST-1332,Michael Williams,40.0,Denver,2025-02-27,Sports,5.0,,4913.0,1.0,yes
+CUST-1333,Rachel Gonzalez,73.0,,2024-02-27,Clothing,8.0,479.21,8846.0,3.0,No
+CUST-1334, Thomas,59.0,,2024-11-02,CLOTHING,8.0,188.74,6788.0,4.0,
+CUST-1335,Rachel Johnson,34.0,Houston,2025-11-25,Books,,449.57,8443.0,,True
+CUST-1336,Hannah Martinez,30.0,Boston,02-Jul-2025,Home & Kitchen,10.0,289.39,8971.0,,yes
+CUST-1332,Charlie Wilson,35.0,Los Angeles,,CLOTHING,2.0,95.52,304.0,1.0,Yes
+CUST-1338, Brown,32.0,LA,2024-12-05,Beauty,4.0,258.01,8457.0,5.0,False
+CUST-1339,Oscar Garcia,37.0,San Antonio,2024-12-28,Toys,14.0,376.33,9451.0,2.0,No
+CUST-1340,Alice Johnson,63.0,New York,,,9.0,265.24,7656.0,2.0,Yes
+CUST-1341,Bob Martinez,63.0,Austin,02/01/2024,Clothing,1.0,470.13,8728.0,4.0,Yes
+CUST-1342,Nina Jones,48.0,San Diego,19-Jan-2025,Sports,3.0,,7106.0,5.0,yes
+CUST-1343,Nina ,68.0,,2024-06-18,Toys,4.0,430.9,981.0,2.0,No
+CUST-1344,Fiona Garcia,36.0,Austin,2025-02-02,Books,10.0,231.31,5968.0,2.0,
+CUST-1345,Tina Gonzalez,61.0,San Diego,04/29/2024,Electronics,8.0,261.51,3938.0,5.0,1
+CUST-1346,Hannah Thomas,75.0,Boston,2024-11-11,Books,14.0,9.17,4919.0,5.0,True
+CUST-1347,Ethan Davis,70.0,San Diego,2024-11-18,Clothing,13.0,192.82,6721.0,1.0,False
+CUST-1348,Ian Anderson,67.0,Seattle,2024-10-05,Toys,6.0,$183.99,1055.0,5.0,yes
+CUST-1349,Alice Anderson,36.0,,2025-05-23,Clothing,3.0,97.64,6757.0,2.0,no
+CUST-1350,  rachel garcia  ,,,2025-01-15,electronics,1.0,138.36,4702.0,,yes
+CUST-1351,Laura ,23.0,LA,2024-11-05,,,174.83,4201.0,4.0,1
+CUST-1352,Julia Wilson,46.0,San Antonio,11/05/2024,,13.0,214.85,3868.0,3.0,
+CUST-1353,Oscar Martinez,65.0,San Diego,01/18/2025,Electronics,10.0,377.34,1860.0,4.0,False
+CUST-1354,MICHAEL THOMAS,30.0,,2024-07-25,Sports,8.0,203.29,453.0,2.0,True
+CUST-1355,Michael ,35.0,Houston,2025-03-30,Home & Kitchen,13.0,287.85,5087.0,5.0,no
+CUST-1356,Laura ,62.0,Denver,2025-05-09,Clothing,10.0,344.58,9172.0,2.0,yes
+CUST-1357,  julia martinez  ,24.0,San Diego,2024-06-06,Electronics,7.0,361.8,6914.0,5.0,
+CUST-1358,  michael rodriguez  ,55.0,Chicago,05/10/2025,Home & Kitchen,8.0,279.89,606.0,,Yes
+CUST-1359,Bob Thomas,21.0,Austin,2025-06-20,Electronics,1.0,102.05,4468.0,,
+CUST-1360,Julia Davis,51.0,San Diego,01-Dec-2024,Home & Kitchen,12.0,370.58,4233.0,2.0,yes
+CUST-1361,Laura Davis,32.0,San Antonio,04/10/2024,electronics,1.0,9.82,4551.0,3.0,False
+CUST-1362,Tina Rodriguez,,,2025-06-12,Beauty,13.0,71.56,2883.0,2.0,
+CUST-1363,Ethan Brown,63.0,Denver,2024-05-15,CLOTHING,4.0,317.17,691.0,3.0,No
+CUST-1364, Johnson,61.0,unknown,02/07/2024,CLOTHING,,161.28,7960.0,3.0,1
+CUST-1365,  julia anderson  ,18.0,Phoenix,2025-06-18,Sports,,129.23,906.0,4.0,0
+CUST-1366,LAURA JONES,28.0,San Diego,11/14/2024,Home & Kitchen,4.0,28.62,1375.0,3.0,True
+CUST-1367,Julia Hernandez,74.0,Austin,2025-08-31,Beauty,6.0,$85.85,4882.0,4.0,Yes
+CUST-1368,FIONA MILLER,48.0,Philadelphia,2024-12-07,Home & Kitchen,2.0,130.87,6668.0,3.0,
+CUST-1369,Rachel Lopez,66.0,Austin,2024-02-17,Sports,10.0,52.67,1479.0,,no
+CUST-1370,Ian Garcia,38.0,Dallas,11/05/2025,Clothing,2.0,133.59,2302.0,1.0,no
+CUST-1371,Paula Martinez,21.0,Los Angeles,2024-01-24,Electronics,5.0,280.96,9354.0,1.0,No
+CUST-1372,Kevin Brown,23.0,unknown,2024-11-15,Beauty,8.0,175.35,1976.0,2.0,
+CUST-1373,Charlie Jones,32.0,Houston,2024-08-02,Toys,10.0,178.79,9509.0,4.0,No
+CUST-1374,Hannah Gonzalez,64.0,unknown,16-Jul-2024,Sports,7.0,304.76,8605.0,5.0,
+CUST-1375,RACHEL LOPEZ,20.0,N/A,29-Jun-2025,CLOTHING,3.0,326.68,1478.0,,0
+CUST-1376,Michael Smith,29.0,Chicago,27-Mar-2025,Clothing,15.0,489.79,2003.0,1.0,
+CUST-1377,Diana Anderson,71.0,N/A,2024-10-06,Sports,13.0,165.92,5134.0,4.0,
+CUST-1378,Ian ,20.0,New York,10/07/2024,,15.0,388.5,9573.0,3.0,no
+CUST-1379,MICHAEL LOPEZ,43.0,Boston,09/29/2025,Clothing,7.0,43.81,3865.0,4.0,False
+CUST-1380,  hannah thomas  ,29.0,Houston,2024-04-14,electronics,,234.56,3571.0,3.0,no
+CUST-1381,Rachel Hernandez,73.0,Boston,12/24/2024,electronics,3.0,434.79,2869.0,1.0,1
+CUST-1382,Hannah Williams,74.0,San Antonio,2024-10-04,CLOTHING,1.0,464.64,4498.0,,Yes
+CUST-1383,Oscar Martinez,,NEW YORK,10/17/2024,Beauty,3.0,308.09,4166.0,2.0,no
+CUST-1384,  diana jones  ,56.0,Seattle,2024-06-24,Electronics,12.0,454.0,916.0,2.0,No
+CUST-1385,Bob Martinez,145.0,Denver,09/19/2025,electronics,1.0,$175.09,6139.0,3.0,yes
+CUST-1386,Diana Brown,36.0,LA,2025-07-07,,11.0,328.24,1850.0,3.0,False
+CUST-1387,Rachel Jones,59.0,,2024-05-13,Home & Kitchen,9.0,304.67,6943.0,5.0,False
+CUST-1388,Laura Moore,49.0,San Antonio,,Beauty,10.0,444.41,4036.0,2.0,yes
+CUST-1384,Ethan Wilson,26.0,Phoenix,2024-02-21,Home & Kitchen,11.0,469.69,2374.0,4.0,yes
+CUST-1390,Paula Wilson,47.0,Philadelphia,02/25/2024,Sports,14.0,262.86,6025.0,1.0,Yes
+CUST-1391,Ian Johnson,69.0,LA,02/05/2025,Clothing,,87.82,345.0,5.0,Yes
+CUST-1392,George Anderson,145.0,Seattle,09/02/2025,,7.0,66.89,9925.0,2.0,0
+CUST-1393,HANNAH LOPEZ,47.0,Austin,2025-10-06,Clothing,2.0,129.57,,4.0,1
+CUST-1394,Laura Moore,63.0,NEW YORK,2025-04-01,Books,8.0,376.12,895.0,,no
+CUST-1395, Lopez,65.0,Boston,2024-11-15,CLOTHING,4.0,201.54,3926.0,5.0,True
+CUST-1396,Bob Gonzalez,36.0,,21-Jul-2024,Electronics,11.0,$468.71,6302.0,5.0,1
+CUST-1397,DIANA ANDERSON,66.0,Denver,2025-11-17,Electronics,,31.64,5945.0,5.0,0
+CUST-1398,  george smith  ,57.0,unknown,2024-03-21,Electronics,2.0,264.37,1999.0,5.0,
+CUST-1399,Kevin Davis,75.0,Austin,2025-04-21,Books,5.0,56.44,3872.0,1.0,False
+CUST-1400,  sam miller  ,45.0,N/A,2024-04-05,Electronics,12.0,46.73,6364.0,1.0,Yes
+CUST-1401,Rachel Miller,23.0,Miami,2025-04-24,electronics,14.0,197.97,,,No
+CUST-1402,Hannah Hernandez,24.0,Seattle,11/13/2024,Beauty,9.0,370.11,4186.0,2.0,Yes
+CUST-1403,Tina Smith,26.0,N/A,2025-04-21,Toys,2.0,67.57,3857.0,3.0,
+CUST-1404,Ethan Jones,33.0,new york,2024-08-17,Home & Kitchen,13.0,89.45,2625.0,1.0,yes
+CUST-1405,Fiona Brown,,Dallas,09/23/2025,Home & Kitchen,4.0,,5196.0,5.0,yes
+CUST-1406,  alice jones  ,46.0,N/A,07-Jan-2025,Electronics,13.0,458.06,6656.0,5.0,Yes
+CUST-1407,Hannah ,39.0,,2025-11-12,CLOTHING,9.0,236.26,4489.0,1.0,False
+CUST-1408,Kevin Smith,64.0,,28-Nov-2024,Toys,6.0,467.75,8055.0,1.0,
+CUST-1409,Bob Jones,34.0,NEW YORK,2024-01-31,Books,5.0,71.88,6765.0,3.0,No
+CUST-1410,Quinn Brown,62.0,Los Angeles,,Beauty,9.0,271.95,5451.0,4.0,No
+CUST-1411,Paula Anderson,60.0,Phoenix,05/05/2025,Books,4.0,230.99,1644.0,5.0,no
+CUST-1412,Quinn ,145.0,Dallas,2024-06-23,Toys,8.0,439.26,4275.0,3.0,False
+CUST-1413,Diana Anderson,43.0,Chicago,22-Dec-2024,Beauty,1.0,321.69,5764.0,1.0,
+CUST-1414,Tina Johnson,75.0,,2024-05-10,Sports,,454.92,8973.0,2.0,
+CUST-1415,Quinn Martinez,67.0,,2025-02-19,Clothing,2.0,117.43,7426.0,,0
+CUST-1416,Alice Johnson,25.0,new york,2024-04-19,,11.0,$157.39,853.0,5.0,True
+CUST-1417,Michael Wilson,36.0,unknown,27-Oct-2025,Beauty,2.0,82.08,3010.0,1.0,no
+CUST-1418,  paula anderson  ,32.0,,11/05/2024,Clothing,2.0,,2229.0,3.0,0
+CUST-1419,Charlie Hernandez,26.0,,2025-02-14,CLOTHING,2.0,380.36,,,no
+CUST-1420,Charlie Jones,47.0,Austin,2024-09-01,Electronics,11.0,146.95,5006.0,1.0,No
+CUST-1421,,56.0,San Diego,2025-07-15,Home & Kitchen,5.0,345.45,1347.0,2.0,0
+CUST-1422,Rachel Hernandez,62.0,Seattle,05/08/2025,Books,1.0,378.96,,4.0,no
+CUST-1423,Tina Taylor,48.0,Los Angeles,2024-12-14,CLOTHING,3.0,384.11,2131.0,2.0,No
+CUST-1424,QUINN WILSON,69.0,New York,08/28/2025,Electronics,14.0,300.52,6722.0,3.0,no
+CUST-1425,Diana Moore,31.0,Los Angeles,2025-03-21,Toys,13.0,276.37,5233.0,1.0,True
+CUST-1426,George Wilson,61.0,Philadelphia,2024-12-16,Clothing,7.0,441.67,2187.0,,no
+CUST-1427,Hannah Wilson,73.0,Phoenix,2024-08-29,electronics,2.0,128.7,9716.0,1.0,True
+CUST-1428,Oscar Gonzalez,51.0,Miami,11/16/2025,Sports,15.0,324.77,4616.0,3.0,no
+CUST-1429,Diana Hernandez,63.0,Miami,08/10/2025,Sports,,114.19,6791.0,2.0,No
+CUST-1430,Ian Lopez,54.0,N/A,2024-04-27,Beauty,11.0,$314.53,6447.0,,False
+CUST-1431,PAULA WILLIAMS,145.0,unknown,2025-04-19,Clothing,6.0,400.98,9345.0,3.0,
+CUST-1432,Charlie Williams,75.0,unknown,09-Apr-2024,CLOTHING,8.0,348.49,376.0,3.0,False
+CUST-1433,Laura Jones,54.0,Phoenix,2024-06-29,electronics,5.0,325.99,3747.0,2.0,Yes
+CUST-1434,Sam Moore,28.0,Boston,19-Feb-2025,Electronics,2.0,138.07,7576.0,5.0,True
+CUST-1435,Diana Wilson,51.0,Dallas,,Beauty,6.0,38.89,2764.0,1.0,yes
+CUST-1436,Nina Johnson,61.0,Austin,09/02/2025,Books,7.0,59.63,,5.0,no
+CUST-1437,Tina Martinez,55.0,Boston,2025-01-23,Sports,8.0,229.12,9836.0,,
+CUST-1438,Sam Taylor,75.0,unknown,22-Oct-2025,,7.0,248.54,1459.0,1.0,False
+CUST-1439,Paula Davis,69.0,Miami,2024-04-02,Sports,8.0,80.31,2787.0,1.0,yes
+CUST-1440,Laura Moore,,LA,05/22/2024,,11.0,15.95,1922.0,1.0,True
+CUST-1441,Ian ,44.0,Dallas,2025-10-13,Books,3.0,144.65,,4.0,0
+CUST-1442,Hannah Wilson,21.0,New York,2024-05-30,electronics,12.0,222.02,7433.0,,yes
+CUST-1443,  tina moore  ,61.0,Denver,2025-04-08,Beauty,14.0,,8096.0,4.0,False
+CUST-1444,Ian Smith,64.0,Los Angeles,2025-02-03,,7.0,$12.29,,,no
+CUST-1445,Julia Hernandez,,San Antonio,2025-04-02,electronics,8.0,213.02,3121.0,5.0,0
+CUST-1446,Fiona Jones,18.0,Seattle,11/28/2025,Books,11.0,251.71,4361.0,,1
+CUST-1447,Michael Williams,55.0,NEW YORK,2024-11-02,CLOTHING,10.0,349.98,8096.0,4.0,no
+CUST-1448, Smith,,Los Angeles,2025-11-26,Books,6.0,,7066.0,,0
+CUST-1449,Charlie Taylor,62.0,LA,21-Mar-2025,Home & Kitchen,14.0,$376.53,9831.0,2.0,yes
+CUST-1450,Nina Anderson,,Dallas,2024-12-18,Electronics,14.0,136.92,4636.0,5.0,Yes
+CUST-1451,Laura Martinez,75.0,San Antonio,2025-08-19,Toys,15.0,273.88,3102.0,,
+CUST-1452,Sam Williams,,San Diego,,Electronics,15.0,448.37,6693.0,4.0,Yes
+CUST-1453,Ethan Garcia,20.0,Boston,2025-02-17,Books,15.0,193.88,471.0,5.0,1
+CUST-1454,Bob Williams,29.0,Houston,2024-10-28,CLOTHING,1.0,,4289.0,,yes
+CUST-1455,Nina Thomas,67.0,Miami,,Beauty,0.0,358.77,7388.0,1.0,No
+CUST-1456,Nina Rodriguez,64.0,Denver,2024-02-24,Electronics,1.0,487.61,6056.0,3.0,False
+CUST-1457,Quinn Brown,44.0,Dallas,,Beauty,11.0,497.3,7506.0,1.0,False
+CUST-1458,Diana Martinez,75.0,Denver,2025-01-02,Electronics,12.0,368.98,,,True
+CUST-1459,Sam Thomas,73.0,Los Angeles,10/15/2024,Toys,10.0,$334.67,5296.0,1.0,yes
+CUST-1460,Julia Johnson,42.0,Boston,2024-08-28,Sports,11.0,197.62,6513.0,2.0,0
+CUST-1461,  tina johnson  ,61.0,Boston,2025-08-27,Clothing,9.0,468.43,6283.0,2.0,no
+CUST-1462,Julia Miller,73.0,San Diego,2024-11-21,Books,12.0,365.48,9784.0,3.0,1
+CUST-1463,Ian Martinez,59.0,NEW YORK,2025-02-19,CLOTHING,7.0,277.04,1561.0,4.0,
+CUST-1464,Alice Thomas,25.0,San Antonio,2025-07-12,Books,4.0,243.21,853.0,4.0,yes
+CUST-1465,Fiona Jones,52.0,new york,06/26/2024,Toys,11.0,183.41,3847.0,2.0,
+CUST-1466,Hannah Taylor,26.0,Los Angeles,2024-07-11,electronics,7.0,,5804.0,1.0,yes
+CUST-1467,Laura Williams,32.0,New York,2025-01-03,Electronics,14.0,486.77,9801.0,,
+CUST-1468,  bob wilson  ,66.0,San Diego,2024-06-06,Home & Kitchen,10.0,219.91,745.0,5.0,
+CUST-1469,Charlie Hernandez,,,17-Nov-2025,Sports,,,,3.0,no
+CUST-1470,Sam Gonzalez,61.0,Los Angeles,01/12/2024,Clothing,3.0,294.42,6241.0,5.0,No
+CUST-1471,NINA MARTINEZ,45.0,Chicago,01/17/2024,Electronics,8.0,125.33,6466.0,2.0,True
+CUST-1472,Alice Hernandez,70.0,Phoenix,05/13/2025,Books,14.0,292.63,2166.0,5.0,
+CUST-1473,Tina Anderson,47.0,Miami,2024-05-19,CLOTHING,13.0,345.76,9167.0,3.0,False
+CUST-1474,Laura Williams,35.0,Chicago,10/19/2025,Toys,4.0,386.54,,5.0,no
+CUST-1475,Diana Davis,74.0,N/A,2025-04-11,Beauty,5.0,252.46,2783.0,2.0,
+CUST-1476,  michael taylor  ,25.0,Chicago,2025-09-10,electronics,,172.52,5557.0,,False
+CUST-1477,Julia Hernandez,,San Diego,2025-09-30,Clothing,11.0,380.98,2161.0,5.0,False
+CUST-1478,Fiona Williams,57.0,N/A,06/05/2025,,14.0,,,4.0,1
+CUST-1479,Diana Taylor,74.0,Seattle,2025-04-05,Clothing,8.0,81.19,7093.0,2.0,Yes
+CUST-1480,Laura Lopez,33.0,Boston,2024-08-19,CLOTHING,10.0,58.16,1914.0,2.0,True
+CUST-1481, Jones,24.0,Phoenix,09/11/2025,Home & Kitchen,14.0,161.79,2095.0,3.0,no
+CUST-1482,Hannah Brown,46.0,Austin,,Toys,6.0,324.1,4603.0,4.0,no
+CUST-1483,George Garcia,63.0,,2024-08-30,Clothing,8.0,446.44,7046.0,4.0,0
+CUST-1484, Williams,33.0,Chicago,2024-10-02,,1.0,15.57,4312.0,3.0,True
+CUST-1485,Fiona Thomas,43.0,Chicago,2025-07-13,,7.0,363.58,4321.0,5.0,
+CUST-1486,Sam ,52.0,,2024-02-04,Electronics,,24.55,7139.0,5.0,no
+CUST-1487,Oscar ,73.0,Seattle,2025-08-04,Toys,14.0,281.72,5169.0,3.0,
+CUST-1488, Hernandez,26.0,Austin,2025-01-12,Home & Kitchen,10.0,247.6,8049.0,99.0,yes
+CUST-1489, Hernandez,36.0,New York,05/08/2025,Books,11.0,274.09,2478.0,1.0,
+CUST-1490,  ethan anderson  ,64.0,,2024-03-22,Sports,9.0,236.86,7208.0,1.0,Yes
+CUST-1491,Oscar Martinez,54.0,Houston,06/23/2025,Sports,11.0,301.35,,2.0,True
+CUST-1492,Sam Johnson,61.0,Boston,2024-10-13,Beauty,6.0,84.37,3766.0,2.0,Yes
+CUST-1493,Charlie Martinez,33.0,unknown,2024-03-21,Toys,1.0,227.45,7704.0,3.0,Yes
+CUST-1494,Bob Johnson,27.0,Seattle,2025-09-16,Beauty,14.0,273.09,7653.0,4.0,False
+CUST-1495,Julia Williams,51.0,Austin,04/28/2025,Beauty,9.0,389.08,8108.0,2.0,
+CUST-1496,Charlie Taylor,37.0,New York,2025-11-10,electronics,10.0,368.16,,1.0,Yes
+CUST-1497,Sam Moore,53.0,Houston,2024-03-20,Sports,11.0,311.77,9189.0,1.0,True
+CUST-1498,Bob Anderson,74.0,Houston,2025-07-06,Books,8.0,312.0,8077.0,5.0,
+CUST-1499,Sam Miller,29.0,Philadelphia,2024-11-15,Clothing,13.0,36.35,,,True
